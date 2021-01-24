@@ -1,6 +1,5 @@
 # School_District_Analysis
  Programming Language Used: Pandas Python
-# Kickstarting with Excel
 
 ## Overview of Project
 
